@@ -4,8 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Koushal-green)](https://koushalkhajuria.github.io/assignmentProfile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Koushal-yellow)](https://stackoverflow.com/users/21158407/koushal)
 
-I'm
-Full Stack Developer
+I'm Full Stack Developer
 The working, GUI interaction over networks has always been of my interest. I am an enthusiastic Full Stack Developer willing to learn new and blooming technologies. Complex things have always seemed interesting to me and I love to find efficient solutions to inefficient problems. I have worked with various front-End technologies like HTML, CSS, JavaScript and various back-end technologies like NodeJs, ExpressJs, NestJs. I have also worked with Databases like MySQL
 
 
