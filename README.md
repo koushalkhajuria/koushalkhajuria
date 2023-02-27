@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Koushal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://)](https://www.linkedin.com/in/koushal-khajuria-9ab8941b2//)
-[![Website Badge](https://img.shields.io/badge/WebSite-Koushal-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Koushal-green)](https://koushalkhajuria.github.io/assignmentProfile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Koushal-yellow)](https://stackoverflow.com/users/21158407/koushal)
 
 I'm
